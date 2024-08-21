@@ -1,6 +1,8 @@
 # Global Life Expectancy Analysis (2000-2019): Insights & Recommendations from World Bank Data
 
-Hello, Life expectancy serves as a crucial indicator of a population’s overall health and quality of life, reflecting the impact of healthcare systems, economic stability, and social conditions. Over recent decades, global life expectancy has seen significant improvements, rising from 65 years in 1990 to approximately 73 years in 2019 (World Health Organization, 2021). Despite these advancements, substantial disparities persist between high-income and low-income regions. For instance, while countries like Japan and Switzerland boast life expectancies over 84 years, some low-income nations still report life expectancies below 65 years (World Bank, 2023).
+For a social cause, I aim to analyze life expectancy data to identify key focus and improvement areas, ultimately providing actionable recommendations for enhancing public health outcomes.
+
+Life expectancy serves as a crucial indicator of a population’s overall health and quality of life, reflecting the impact of healthcare systems, economic stability, and social conditions. Over recent decades, global life expectancy has seen significant improvements, rising from 65 years in 1990 to approximately 73 years in 2019 (World Health Organization, 2021). Despite these advancements, substantial disparities persist between high-income and low-income regions. For instance, while countries like Japan and Switzerland boast life expectancies over 84 years, some low-income nations still report life expectancies below 65 years (World Bank, 2023).
 
 By analyzing life expectancy data, we can uncover significant patterns and disparities that reveal much about the progress and challenges faced by different regions and communities. 
 
