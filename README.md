@@ -21,9 +21,13 @@ Below are my Insights & Recommendation of the same:
 # Insights and Recommendations:
 
 Based on the insights from visualizations and the case study on India, policies that helped countries improve the health, emphasizes that Sanitation, undernourishment, and health expenditure are critical socio-economic factors influencing life expectancy. Based on geographical data, it’s evident that South Asia, Africa, and developing countries of Europe are still in need of adequate resources to upgrade their life with proper sanitation, nutrition and healthcare. Here are the prescriptions for authorities to improve the health of the people in these nations:
+
 **1.	Enhance Sanitation and Nutrition:** Investments in sanitation and nutrition are critical, particularly in regions with low life expectancy, to reduce disease and malnutrition.
+
 **2.	Implement Targeted Public Health Programs:** As discussed in Regional Health Programs Comparison, it’s important to focus on diseases and health issues prevalent in low life expectancy regions, such as infectious diseases in Sub-Saharan Africa and malnutrition in South Asia.
+
 **3.	Accessible Health Systems:** Develop robust health systems with better access to healthcare services, medical supplies, and trained health professionals.
+
 **4.	Increase Health Expenditure:** Developing countries should prioritize increasing their health expenditure as a percentage of GDP to improve healthcare infrastructure and access.
 **5.	International Support and Collaboration:** Encourage international aid and collaboration to provide financial and technical support to the most affected regions, ensuring sustainable health improvements.
 
