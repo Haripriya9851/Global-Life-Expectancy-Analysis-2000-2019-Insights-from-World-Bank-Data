@@ -29,6 +29,7 @@ Based on the insights from visualizations and the case study on India, policies 
 **3.	Accessible Health Systems:** Develop robust health systems with better access to healthcare services, medical supplies, and trained health professionals.
 
 **4.	Increase Health Expenditure:** Developing countries should prioritize increasing their health expenditure as a percentage of GDP to improve healthcare infrastructure and access.
+
 **5.	International Support and Collaboration:** Encourage international aid and collaboration to provide financial and technical support to the most affected regions, ensuring sustainable health improvements.
 
 
