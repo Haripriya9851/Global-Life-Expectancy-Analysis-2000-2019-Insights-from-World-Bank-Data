@@ -19,6 +19,8 @@ I have built a tableau dashboard with the data collected to understand regional 
 
 **Please take a look at the extensive report on Life Expectancy Analysis:** [Global Life Expectancy Report](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data/blob/main/Global%20Life%20Expectancy%20Analysis_Final.pdf)
 
+Code - [EDA and Countries Clustering Python Code](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data/blob/main/Clusteing%20Countries.ipynb) 
+
 Below are my Insights & Recommendation of the same:
 
 # Insights and Recommendations:
@@ -35,5 +37,5 @@ Based on the insights from visualizations and the case study on India, policies 
 
 **5.	International Support and Collaboration:** Encourage international aid and collaboration to provide financial and technical support to the most affected regions, ensuring sustainable health improvements.
 
-Code - [EDA and Countries Clustering Python Code](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data/blob/main/Clusteing%20Countries.ipynb) 
+
 
