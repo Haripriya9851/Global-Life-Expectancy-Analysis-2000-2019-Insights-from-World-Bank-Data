@@ -6,7 +6,10 @@ Life expectancy serves as a crucial indicator of a population’s overall health
 
 By analyzing life expectancy data, we can uncover significant patterns and disparities that reveal much about the progress and challenges faced by different regions and communities. 
 
-To explore these relationships in detail, I utilized the dataset available on Kaggle : [Life Expectancy and Socio-Economic Data](https://www.kaggle.com/datasets/mjshri23/life-expectancy-and-socio-economic-world-bank), sourced from World Bank dataset. This dataset provides a comprehensive view of life expectancy alongside various socio-economic indicators, including sanitation, undernourishment, unemployment, corruption, GDP per capita and health expenditure for 200 countries from 2000 to 2019. 
+To explore these relationships in detail, I utilized 2 datasets available on Kaggle : 
+
+1. [Country Data](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data/data) to categorise the countries using socio-economic and health factors that determine the overall development of the country.
+2. [Life Expectancy and Socio-Economic Data](https://www.kaggle.com/datasets/mjshri23/life-expectancy-and-socio-economic-world-bank), sourced from World Bank dataset. This dataset provides a comprehensive view of life expectancy alongside various socio-economic indicators, including sanitation, undernourishment, unemployment, corruption, GDP per capita and health expenditure for 200 countries from 2000 to 2019. 
 
 By employing descriptive and prescriptive analytics techniques, I aim to identify trends, draw comparisons, and provide actionable insights into how sanitation, undernourishment, and health expenditure impact life expectancy across different countries and over time. Also, I am trying to do a case study on socio-economic factors that has affected life expectancy of India over the years.
 
