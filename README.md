@@ -1,4 +1,4 @@
-# Global Life Expectancy Analysis (2000-2019): Insights & Recommendations from World Bank Data
+# Global Life Expectancy Analysis (2000-2019): Insights & Recommendations from World Bank Data based on ML Clustering
 
 Hello, As part of my Final project of Decision Support and Business Intelligence class, for a social cause, I aim to analyze life expectancy data to identify key focus and improvement areas, ultimately providing actionable recommendations for enhancing public health outcomes.
 
