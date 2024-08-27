@@ -8,7 +8,7 @@ By analyzing life expectancy data, we can uncover significant patterns and dispa
 
 To explore these relationships in detail, I utilized 2 datasets available on Kaggle : 
 
-1. [Country Data](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data/data) to categorise the countries using socio-economic and health factors that determine the overall development of the country.
+1. [Country Data](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data/data), sourced from Kaggle to categorise the countries using socio-economic and health factors that determine the overall development of the country.
 2. [Life Expectancy and Socio-Economic Data](https://www.kaggle.com/datasets/mjshri23/life-expectancy-and-socio-economic-world-bank), sourced from World Bank dataset. This dataset provides a comprehensive view of life expectancy alongside various socio-economic indicators, including sanitation, undernourishment, unemployment, corruption, GDP per capita and health expenditure for 200 countries from 2000 to 2019. 
 
 By employing descriptive and prescriptive analytics techniques, I aim to identify trends, draw comparisons, and provide actionable insights into how sanitation, undernourishment, and health expenditure impact life expectancy across different countries and over time. Also, I am trying to do a case study on socio-economic factors that has affected life expectancy of India over the years.
@@ -35,6 +35,5 @@ Based on the insights from visualizations and the case study on India, policies 
 
 **5.	International Support and Collaboration:** Encourage international aid and collaboration to provide financial and technical support to the most affected regions, ensuring sustainable health improvements.
 
-
-
+Code - [EDA and Countries Clustering Python Code](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data/blob/main/Clusteing%20Countries.ipynb) 
 
