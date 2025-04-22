@@ -15,7 +15,7 @@ By employing descriptive and prescriptive analytics techniques, I aim to identif
 
 I have built a tableau dashboard with the data collected to understand regional disparities and the socio-economic factors that influence life expectancy.
 
-**Please take a look at the PDF format of Tableau dashboard:** [Global Life Expectancy Dashboard](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data/blob/main/Life%20Expectancy%20Analysis_Dashboard_Story.pdf)
+**Please take a look at Tableau Public dashboard:** [Global Life Expectancy Dashboard](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data/blob/main/Life%20Expectancy%20Analysis_Dashboard_Story.pdf)
 
 **Please take a look at the extensive report on Life Expectancy Analysis:** [Global Life Expectancy Report](https://public.tableau.com/views/FactorsInfluencingMortalityRatesAcrosstheGlobeWorldBankDataAnalysis/WorldBankMortalityAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
