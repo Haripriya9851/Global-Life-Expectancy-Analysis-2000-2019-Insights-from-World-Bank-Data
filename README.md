@@ -6,7 +6,7 @@ I have built a tableau dashboard with the data collected to understand regional 
 
 **Please take a look at Tableau Public dashboard:** [World Bank Mortality Analysis](https://public.tableau.com/views/FactorsInfluencingMortalityRatesAcrosstheGlobeWorldBankDataAnalysis/WorldBankMortalityAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-**Please take a look at the extensive report on Life Expectancy Analysis:** [Global Life Expectancy Report]()
+**Please take a look at the extensive report on Life Expectancy Analysis:** [Global Life Expectancy Report](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data/blob/main/Global%20Life%20Expectancy%20Analysis_Final.pdf)
 
 Code - [EDA and Countries Clustering Python Code](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data/blob/main/Clusteing%20Countries.ipynb) 
 
